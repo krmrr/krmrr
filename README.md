@@ -8,7 +8,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
-### <img src="https://i.ibb.co/Bt7v5C6/hacker-hacker-man.gif" width="50"> A little more about me...  
+### <img style="border-raidus: 15px;" src="https://i.ibb.co/Bt7v5C6/hacker-hacker-man.gif" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
