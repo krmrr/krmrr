@@ -1,5 +1,5 @@
-<h2> Hi, I'm Omerfaruk Karaomer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+<h2> Hi, I'm Omerfaruk Karaomer! </h2>
+<img align='right' src="https://i.ibb.co/Bt7v5C6/hacker-hacker-man.gif" width="230"> 
 </em></p>
 
 [![Twitter: OmerKrmr](https://img.shields.io/twitter/follow/omerkrmr?style=social)](https://twitter.com/omerkrmr)
