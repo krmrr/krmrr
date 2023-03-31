@@ -11,7 +11,7 @@
 ```javascript
 export const me = {
 	code: [Javascript, Typescript, HTML, CSS, PHP, Java],
-	tools: [React, Nest, Node, Styled - Components, Jest, Docker],
+	tools: [React, React Native, Nest, Node, Styled - Components, Jest, Docker, MYSQL, Firebase],
 	architecture: [
 		"microservices",
 		"event-driven",
