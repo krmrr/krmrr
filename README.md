@@ -31,12 +31,6 @@ At **Qoalaa**, we are building the next generation of decentralized communicatio
 - **Smart Contracts**: Developing innovative solutions for staking, yield farming, and governance models.
 
 
-## 📊 GitHub Stats
-
-![Ömerfaruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krmrr&show_icons=true&theme=radical)
-
----
-
 *"Building the decentralized future, one smart contract at a time."*
 
 
